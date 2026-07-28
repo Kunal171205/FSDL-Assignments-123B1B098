@@ -2,8 +2,8 @@
 
 **Name:** Rohan Adkine  
 **Roll No:** 123B1B076  
-**Class:** TY B.Tech (Computer Engineering)  
-**Division:** A  
+**Class:** B.Tech (Computer Engineering)  
+**Division:** B  
 **Subject:** Full Stack Development Lab (FSDL)  
 
 ---
