@@ -1,0 +1,43 @@
+# FSDL Practical Assignments
+
+**Name:** Rohan Adkine  
+**Roll No:** 00  
+**Class:** TY B.Tech (Computer Engineering)  
+**Division:** A  
+**Subject:** Full Stack Development Lab (FSDL)  
+
+---
+
+## Assignments Included
+
+- **[Assignment 01](file:///D:/FSDL/Assignment-01)**: HTML Text Formatting Tags & Basic Page Structure
+- **[Assignment 02](file:///D:/FSDL/Assignment-02)**: Responsive HTML & CSS Web Layout Design
+- **[Assignment 03](file:///D:/FSDL/Assignment-03)**: Interactive Web Application with Dynamic JavaScript & Styling
+- **[Assignment 04](file:///D:/FSDL/Assignment-04)**: Student Management System UI
+- **[Assignment 05](file:///D:/FSDL/Assignment-05)**: College Portal Website Project
+- **[Assignment 06](file:///D:/FSDL/Assignment-06)**: Express.js & MongoDB Web Application with Authentication
+- **[Assignment 07](file:///D:/FSDL/Assignment-07)**: Full Stack Web Application (Client & Server Architecture)
+- **[Assignment 08](file:///D:/FSDL/Assignment-08)**: End-to-End Full Stack Web Application
+
+---
+
+## Technologies Used
+
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS, React.js
+- **Backend**: Node.js, Express.js, REST APIs
+- **Database**: MongoDB, Mongoose, MySQL
+- **Version Control & Hosting**: Git, GitHub, GitHub Pages
+
+---
+
+## Hosted Profile Website
+
+- **Live Link**: [https://rohanadkine.github.io/fsdl-practical-assignments/](https://rohanadkine.github.io/fsdl-practical-assignments/)  
+  *(Alternative link: [https://rohanadkine.github.io/FDSL_Assignments/](https://rohanadkine.github.io/FDSL_Assignments/))*
+
+---
+
+## Repository Link
+
+- **GitHub Repository**: [https://github.com/RohanAdkine/fsdl-practical-assignments](https://github.com/RohanAdkine/fsdl-practical-assignments)  
+  *(Alternative URL: [https://github.com/RohanAdkine/FDSL_Assignments.git](https://github.com/RohanAdkine/FDSL_Assignments.git))*
