@@ -35,8 +35,3 @@
 - **Live Link**: [https://kunal-biradar.netlify.app/]  
   
 ---
-
-## Repository Link
-
-- **GitHub Repository**: [https://github.com/RohanAdkine/fsdl-practical-assignments](https://github.com/RohanAdkine/fsdl-practical-assignments)  
-  *(Alternative URL: [https://github.com/RohanAdkine/FDSL_Assignments.git](https://github.com/RohanAdkine/FDSL_Assignments.git))*
