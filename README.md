@@ -1,7 +1,7 @@
 # FSDL Practical Assignments
 
-**Name:** Rohan Adkine  
-**Roll No:** 123B1B076  
+**Name:** Kunal Biradar  
+**Roll No:** 123B1B098 
 **Class:** B.Tech (Computer Engineering)  
 **Division:** B  
 **Subject:** Full Stack Development Lab (FSDL)  
@@ -32,9 +32,8 @@
 
 ## Hosted Profile Website
 
-- **Live Link**: [https://rohanadkine.github.io/fsdl-practical-assignments/](https://rohanadkine.github.io/fsdl-practical-assignments/)  
-  *(Alternative link: [https://rohanadkine.github.io/FDSL_Assignments/](https://rohanadkine.github.io/FDSL_Assignments/))*
-
+- **Live Link**: [https://kunal-biradar.netlify.app/]  
+  
 ---
 
 ## Repository Link
